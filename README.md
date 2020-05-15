@@ -1,4 +1,4 @@
-# iampoor
+# I Am Poor
 
 Section 5: I Am Poor - App Challenge
 
